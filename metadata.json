@@ -1,0 +1,6 @@
+{
+  "name": "CampusBites",
+  "description": "A vibrant and integrated campus food ordering and discovery app featuring live order status, category search, menu exploration, and cart customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
